@@ -1,6 +1,8 @@
 # glcrane-cinder
 Implementation of crane demo in Cinder (C++)
 
+![Preview Image](https://raw.githubusercontent.com/Synival/glcrane-cinder/master/images/preview.png)
+
 ## Build instructions:
 
 ### Linux:
