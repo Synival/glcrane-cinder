@@ -9,7 +9,7 @@ Implementation of crane demo in Cinder (C++)
 
 1) Clone repository:
 ```
-git clone https://github.com/Synival/glcrane-cinder.git`
+git clone https://github.com/Synival/glcrane-cinder.git
 cd glcrane-cinder
 ```
 2) Create link to local Cinder installation:
